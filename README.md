@@ -23,11 +23,9 @@ A missão geral é fazer algumas análises com as bases fornecidas e montar um S
 
 ## Sobre as bases
 
-### 1. Base-Customer-Churn.csv
+### 1. Base Customer Churn
 
 **Contexto**
-
-**File:** /bases/Base-Customer-Churn.csv
 
 Temos dados de **7.043 clientes únicos** nesta base que sairam da empresa.
 
@@ -48,11 +46,9 @@ O conjunto de dados inclui informações sobre:
 
 <span style="color:rgb(151, 74, 104); font-weight:bold">@source</span> [kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-### 2. Base-Customer-Reclamacao.csv
+### 2. Base Customer Reclamação
 
 **Contexto**
-
-**File:** /bases/Base-Customer-Reclamacao.csv
 
 Temos dados de **1.125.612 reclamações** nesta base dos últimos 180 dias.
 
@@ -76,15 +72,14 @@ O conjunto de dados inclui informações sobre:
     [Passo a Passo Google, clique aqui](https://cloud.google.com/bigquery/docs/sandbox?sjid=4447945526086845272-SA&hl=pt-br#limits)
 
 2. Execute os códigos abaixo para carregar as bases (~2 min)
-
     1. Abra o arquivo **create_table_start.sql**
     2. Copie e Cole em uma nova aba no Google BigQuery e clique em "Executar/Run"
     
 3. Após execução você conseguirá acessar as 2 tabelas:
-    1. **Base de churn**
+    1. **Base Customer Churn**
         
         `select * from dm_desafio_spec.base_customer_churn;`
 
-    2. **Base de reclamações de Jun-Dez/24**
+    2. **Base Customer Reclamação de Jun-Dez/24**
      
         `select * from dm_desafio_spec.base_customer_reclamacao;`
