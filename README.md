@@ -27,7 +27,7 @@ A missão geral é fazer algumas análises com as bases fornecidas e montar um S
 
 **Contexto**
 
-Temos dados de **7.043 clientes únicos** nesta base que sairam da empresa.
+Temos dados de **7.043 clientes únicos** nesta base que sairam da empresa. Utilizar como chave o campo **CustomerId**
 
 **Conteúdo**
 
@@ -50,7 +50,7 @@ O conjunto de dados inclui informações sobre:
 
 **Contexto**
 
-Temos dados de **1.125.612 reclamações** nesta base dos últimos 180 dias.
+Temos dados de **1.116.503 reclamações** nesta base dos últimos 180 dias. Utilizar como chave os campos **Protocolo** e **Canal**
 
 **Conteúdo**
 
