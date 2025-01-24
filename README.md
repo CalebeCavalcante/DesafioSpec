@@ -61,7 +61,7 @@ O conjunto de dados inclui informações sobre:
 - Clientes que reclamaram nos canais recursais como Anatel, Ouvidoria, Procon e Reclame Aqui nos últimos 180 dias 
  – **protocolo, dt_reclamacao e canal**.
 
-- Movitos nos quais cada cliente registrou a reclamação – **motivo, submotivo, descricao e causa_raiz**
+- Movitos nos quais cada cliente registrou a reclamação – **motivo e submotivo**
 
 - Informações da conta do cliente – **customerId, telefone_principal, telefone_contato_1 e telefone_contato_2**
 
