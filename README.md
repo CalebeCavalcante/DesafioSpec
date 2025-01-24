@@ -50,7 +50,7 @@ O conjunto de dados inclui informações sobre:
 
 **Contexto**
 
-Temos dados de **1.116.503 reclamações** nesta base dos últimos 180 dias. Utilizar como chave os campos **Protocolo** e **Canal**
+Temos dados de **1.115.427 reclamações** nesta base dos últimos 180 dias. Utilizar como chave os campos **Protocolo** e **Canal** e caso precise remover duplicidades, priorizar pela **Data Reclamação** mantendo a data mais antiga.
 
 **Conteúdo**
 

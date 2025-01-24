@@ -20,7 +20,7 @@ CREATE OR REPLACE EXTERNAL TABLE dm_desafio_spec.base_customer_reclamacao
 )
   OPTIONS (
     format = 'CSV'
-    , uris = ['https://drive.google.com/open?id=1pSWhBltOhMt19_P9MFlU8Ue9xdoCZn5M']
+    , uris = ['https://drive.google.com/open?id=1g8wXrBODzRZ5dvxRpxFLEdw5tb4jN854']
     , skip_leading_rows = 1
     , field_delimiter = ","
     , allow_quoted_newlines = true
